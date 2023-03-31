@@ -6,14 +6,14 @@ const App = () => {
     <View style={styles.view}>
       <View style={styles.viewBox}>
         <ImageBackground
-          source={require("homework4/assets/images/img2.jpg")}
+          source={require("homework4/assets/images/img.png")}
           style={styles.img1}
         ></ImageBackground>
       </View>
 
       <View style={styles.viewBox}>
         <ImageBackground
-          source={require("homework4/assets/images/img1.jpg")}
+          source={require("homework4/assets/images/img2.jpg")}
           style={styles.img2}
         ></ImageBackground>
       </View>
